@@ -1,4 +1,4 @@
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+
 
 <p align="center">
   <a href="https://github.com/DinithShamika/DinithShamika"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Dinith+Shamika;I+am+a+SLIATE+student;Web+Development;Machine+learning;"></a>
